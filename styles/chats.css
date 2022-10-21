@@ -1,5 +1,7 @@
 .shadow {
   box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+  min-width:100%;
+  min-height:100%;
 }
 
 /* Chat List */

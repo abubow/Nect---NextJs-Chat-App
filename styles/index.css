@@ -2,4 +2,6 @@
 
 * {
   font-family: Quicksand !important;
+  scrollbar-width: none !important;
+  overflow: hidden !important;
 }
