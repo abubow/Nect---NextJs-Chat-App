@@ -4,16 +4,16 @@
 
 /* Chat List */
 .ce-wrapper {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
 }
 
 .ce-chats-container {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   border-radius: 0px !important;
 }
 
 .ce-chat-form-container {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   color: white;
 }
 
@@ -44,12 +44,12 @@
 /* Chat Feed */
 
 .ce-chat-title-container {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   border-radius: 0px !important;
 }
 
 .ce-chat-feed-container {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
 }
 
 .ce-primary-button {
@@ -86,7 +86,7 @@
 }
 
 .ce-social-message-form {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
 }
 
 .ce-message-input-form {
@@ -98,7 +98,7 @@
   position: relative !important;
   top: 4px !important;
   border-width: 0px !important;
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   color: white !important;
 }
 #msg-textarea::placeholder {
@@ -114,7 +114,7 @@
 }
 
 .ce-message-images-row {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
 }
 
 .ce-their-message-sender {
@@ -129,22 +129,22 @@
 /* Chat Settings */
 
 .ce-settings {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   border-radius: 0px !important;
 }
 
 .ce-chat-title-form .ce-text-input {
-  background-color: #4a5162;
+  background-color: #1C1E1F;
   color: white;
 }
 
 .ce-section-title-container {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   color: white;
 }
 
 #ce-options-drop-down {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   color: white;
 }
 
@@ -153,7 +153,7 @@
 }
 
 .ce-danger-button {
-  background-color: #4a5162 !important;
+  background-color: #1C1E1F !important;
   border: 1px solid #9a97fc !important;
   color: #9a97fc !important;
 }
