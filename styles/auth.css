@@ -1,10 +1,9 @@
 .background {
-  padding: 100px;
   position: absolute;
   top: 0px;
   left: 0px;
-  width: calc(100vw - 200px);
-  height: calc(100vh - 200px);
+  min-width: 100vw;
+  min-height: 100vh;
   background: linear-gradient(150deg, rgb(0, 104, 104), rgb(172, 112, 0) 100%, #430000 10%);
   -webkit-animation: Gradient 15s ease infinite;
   -moz-animation: Gradient 15s ease infinite;
